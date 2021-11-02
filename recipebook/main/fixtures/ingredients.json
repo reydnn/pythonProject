@@ -1,0 +1,322 @@
+[
+  {
+    "model": "main.ingredient",
+    "pk": 1,
+    "fields": {
+      "title": "Шоколад",
+      "type_product": "Темный"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 2,
+    "fields": {
+      "title": "Масло",
+      "type_product": "Сливочное"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 3,
+    "fields": {
+      "title": "Сахар",
+      "type_product": "Белый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 4,
+    "fields": {
+      "title": "Яйцо",
+      "type_product": "Куриное"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 5,
+    "fields": {
+      "title": "Мука",
+      "type_product": "Пшеничная"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 6,
+    "fields": {
+      "title": "Орехи",
+      "type_product": "Грецкие"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 7,
+    "fields": {
+      "title": "Паста",
+      "type_product": "Спагетти"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 8,
+    "fields": {
+      "title": "Чеснок",
+      "type_product": "Белый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 9,
+    "fields": {
+      "title": "Лук",
+      "type_product": "Красный"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 10,
+    "fields": {
+      "title": "Бекон",
+      "type_product": "Свиной"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 11,
+    "fields": {
+      "title": "Сливки",
+      "type_product": "20%-ные"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 12,
+    "fields": {
+      "title": "Сыр",
+      "type_product": "Пармезан"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 13,
+    "fields": {
+      "title": "Соль",
+      "type_product": "Мелкая"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 14,
+    "fields": {
+      "title": "Перец",
+      "type_product": "Черный молотый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 15,
+    "fields": {
+      "title": "Тыква",
+      "type_product": "Обыкновенная"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 16,
+    "fields": {
+      "title": "Сливки",
+      "type_product": "30%-ные"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 17,
+    "fields": {
+      "title": "Корица",
+      "type_product": "Цейлонская"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 18,
+    "fields": {
+      "title": "Ванилин",
+      "type_product": "Синтетический"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 19,
+    "fields": {
+      "title": "Молоко",
+      "type_product": "Коровье"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 20,
+    "fields": {
+      "title": "Разрыхлитель (для теста)",
+      "type_product": "Химический"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 21,
+    "fields": {
+      "title": "Сода",
+      "type_product": "Пищевая"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 22,
+    "fields": {
+      "title": "Банан",
+      "type_product": "Райский"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 23,
+    "fields": {
+      "title": "Томаты",
+      "type_product": "Красные"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 24,
+    "fields": {
+      "title": "Салат",
+      "type_product": "Листовой"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 25,
+    "fields": {
+      "title": "Йогурт",
+      "type_product": "Натуральный"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 26,
+    "fields": {
+      "title": "Масло",
+      "type_product": "Оливковое"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 27,
+    "fields": {
+      "title": "Перец",
+      "type_product": "Зеленый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 28,
+    "fields": {
+      "title": "Маслины",
+      "type_product": "Гигантские"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 29,
+    "fields": {
+      "title": "Огурец",
+      "type_product": "Обыкновенный"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 30,
+    "fields": {
+      "title": "Орегано",
+      "type_product": "Сушеный"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 31,
+    "fields": {
+      "title": "Сыр",
+      "type_product": "Фета"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 32,
+    "fields": {
+      "title": "Филе",
+      "type_product": "Куриное"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 33,
+    "fields": {
+      "title": "Сыр",
+      "type_product": "Плавленый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 34,
+    "fields": {
+      "title": "Картофель",
+      "type_product": "Молодой"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 35,
+    "fields": {
+      "title": "Лук",
+      "type_product": "Репчатый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 36,
+    "fields": {
+      "title": "Морковь",
+      "type_product": "Мытая"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 37,
+    "fields": {
+      "title": "Зелень",
+      "type_product": "Любая"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 38,
+    "fields": {
+      "title": "Лист",
+      "type_product": "Лавровый"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 39,
+    "fields": {
+      "title": "Гренки",
+      "type_product": "Белые"
+    }
+  },
+  {
+    "model": "main.ingredient",
+    "pk": 40,
+    "fields": {
+      "title": "Перец",
+      "type_product": "Черный горошком"
+    }
+  }
+]
