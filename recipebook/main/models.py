@@ -11,7 +11,7 @@ class Ingredient(models.Model):
         return f'{self.title} ({self.type_product})'
 
     class Meta:
-        verbose_name = 'Игредиент'
+        verbose_name = 'Ингредиент'
         verbose_name_plural = 'Ингредиенты'
 
 
@@ -19,7 +19,7 @@ class Recipe(models.Model):
     """Рецепт"""
 
     title = models.CharField('Название', max_length=50, null=False, default=None)
-    ingredients = models.ManyToManyField("Ingredient", verbose_name='Ингридиенты', related_name='recipe_ingredients')
+    ingredients = models.ManyToManyField("Ingredient", verbose_name='Ингредиенты', related_name='recipe_ingredients')
     description = models.TextField("Описание")
     time_cook = models.IntegerField("Время приготовления (мин.)", null=False, default=None)
 
